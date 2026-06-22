@@ -10,6 +10,7 @@ POST endpoint to add new students
 JSON data handling
 Input validation
 Express.js server setup
+
 Technologies Used
 Node.js
 Express.js
